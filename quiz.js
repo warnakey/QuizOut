@@ -72,7 +72,7 @@ let questions = [
         correct : "A"
     },{
         question : "What are vaccinations?",
-        imgSrc : "img/mountain-goat.jpg",
+        imgSrc : "img/vaccination.jpg",
         choiceA : "A movie starring Robert DeNiro",
         choiceB : "A pill containing chicken soup",
         choiceC : "A microchip size amount of soap",
@@ -81,7 +81,7 @@ let questions = [
         correct : "E"
     },{
         question : "What country do cockatiels originally come from?",
-        imgSrc : "img/mountain-goat.jpg",
+        imgSrc : "img/wild-cockatiels.jpg",
         choiceA : "Brazil",
         choiceB : "Japan",
         choiceC : "Australia",
@@ -90,13 +90,22 @@ let questions = [
         correct : "C"
     },{
         question : "When were the pyramids in Egypt built?",
-        imgSrc : "img/mountain-goat.jpg",
+        imgSrc : "img/pyramids.jpg",
         choiceA : "4500 years ago",
         choiceB : "6000 years ago",
         choiceC : "5 million years ago",
         choiceD : "1500 years",
         choiceE : "When the Greeks had a fight",
         correct : "A"
+    },{
+        question : "What is the fastest land animal in the world?",
+        imgSrc : "img/fast-animals.jpg",
+        choiceA : "Road Runner",
+        choiceB : "Cheetah",
+        choiceC : "Kangaroo",
+        choiceD : "Coyote",
+        choiceE : "Leopard",
+        correct : "B"
     }
 ];
 
